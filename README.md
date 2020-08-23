@@ -9,4 +9,4 @@
 - setup your device as usual
 - Will try to do some more test for us to get fully working bpass with everything working.
 
-If you want to buy me a beer, I'll leave it here paypal.me/khevinski014.
+If you want to buy me a beer, I'll leave it here [paypal.me/khevinski014]
