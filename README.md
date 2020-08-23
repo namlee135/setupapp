@@ -1,6 +1,5 @@
-# setupapp bypass
+# Currently under development
 
-#How to use
 - Jailbreak your device
 - Open terminal and run the following commands
 - git clone https://github.com/khevin014/setupapp.git
