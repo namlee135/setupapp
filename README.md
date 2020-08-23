@@ -1,4 +1,6 @@
-# Currently under development
+# setup app bypass!
+
+# How to use
 
 - Jailbreak your device
 - Open terminal and run the following commands
@@ -7,6 +9,10 @@
 - chmod +x bypass.sh
 - run ./bypass.sh
 - setup your device as usual
-- Will try to do some more test for us to get fully working bpass with everything working.
 
-If you want to buy me a beer, I'll leave it here [paypal.me/khevinski014]
+## still under development
+- iServices
+- Notifications
+- Calls & SMS
+
+If you'd like to buy me a beer, https://paypal.me/khevinski014
