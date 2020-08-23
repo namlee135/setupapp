@@ -1,4 +1,4 @@
-# setup app bypass! for Mac users
+# setup app bypass for Mac users
 
 # How to use
 
